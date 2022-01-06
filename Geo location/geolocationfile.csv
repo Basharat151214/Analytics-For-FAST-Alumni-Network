@@ -1,0 +1,32 @@
+,CountryName,Alumni,Code,Country,Continent,CODE,Geolocate,Latitude,Longitude
+0,Pakistan,2000,"('PK', 'AS')",PK,AS,PAK,پاکستان,30.3308401,71.247499
+1,United States,36,"('US', 'NA')",US,NA,USA,United States,39.7837304,-100.445882
+2,United Kingdom,21,"('GB', 'EU')",GB,EU,GBR,United Kingdom,54.7023545,-3.2765753
+3,United Arab Emirates,17,"('AE', 'AS')",AE,AS,ARE,الإمارات العربية المتحدة,24.0002488,53.9994829
+4,Canada,15,"('CA', 'NA')",CA,NA,CAN,Canada,61.0666922,-107.991707
+5,Germany,11,"('DE', 'EU')",DE,EU,DEU,Deutschland,51.0834196,10.4234469
+6,Sweden,4,"('SE', 'EU')",SE,EU,SWE,Sverige,59.6749712,14.5208584
+7,Saudi Arabia,3,"('SA', 'AS')",SA,AS,SAU,السعودية,25.6242618,42.3528328
+8,Australia,2,"('AU', 'OC')",AU,OC,AUS,Australia,-24.7761086,134.755
+9,Qatar,2,"('QA', 'AS')",QA,AS,QAT,قطر,25.3336984,51.2295295
+10,Singapore,2,"('SG', 'AS')",SG,AS,SGP,Singapore,1.357107,103.8194992
+11,Egypt,1,"('EG', 'AF')",EG,AF,EGY,مصر,26.2540493,29.2675469
+12,Bahrain,1,"('BH', 'AS')",BH,AS,BHR,البحرين,26.1551249,50.5344606
+13,Taiwan,1,None,None,None,None,臺灣,23.9739374,120.9820179
+14,Turkey,1,"('TR', 'AS')",TR,AS,TUR,Türkiye,38.9597594,34.9249653
+15,Cuba,1,"('CU', 'NA')",CU,NA,CUB,Cuba,23.0131338,-80.8328748
+16,New Zealand,1,"('NZ', 'OC')",NZ,OC,NZL,New Zealand / Aotearoa,-41.5000831,172.8344077
+17,Iran,1,None,None,None,None,ایران,32.6475314,54.5643516
+18,Netherlands,1,"('NL', 'EU')",NL,EU,NLD,Nederland,52.2288689,5.3214503
+19,Oman,1,"('OM', 'AS')",OM,AS,OMN,عمان,21.0000287,57.0036901
+20,Denmark,1,"('DK', 'EU')",DK,EU,DNK,Danmark,55.670249,10.3333283
+21,Chile,1,"('CL', 'SA')",CL,SA,CHL,Chile,-31.7613365,-71.3187697
+22,Georgia,1,"('GE', 'AS')",GE,AS,GEO,"Georgia, United States",32.3293809,-83.1137366
+23,China,1,"('CN', 'AS')",CN,AS,CHN,中国,35.000074,104.999927
+24,Poland,1,"('PL', 'EU')",PL,EU,POL,Polska,52.215933,19.134422
+25,Hungary,1,"('HU', 'EU')",HU,EU,HUN,Magyarország,47.1817585,19.5060937
+26,Mali,1,"('ML', 'AF')",ML,AF,MLI,Mali,16.3700359,-2.2900239
+27,Indonesia,1,"('ID', 'AS')",ID,AS,IDN,Indonesia,-2.4833826,117.8902853
+28,Spain,1,"('ES', 'EU')",ES,EU,ESP,España,39.3260685,-4.8379791
+29,Switzerland,1,"('CH', 'EU')",CH,EU,CHE,Schweiz/Suisse/Svizzera/Svizra,46.7985624,8.2319736
+30,India,1,"('IN', 'AS')",IN,AS,IND,India,22.3511148,78.6677428
